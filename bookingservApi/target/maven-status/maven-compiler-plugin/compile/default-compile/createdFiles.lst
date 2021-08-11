@@ -1,0 +1,7 @@
+com/paypal/bfs/test/bookingserv/api/entity/ResponseStatus.class
+com/paypal/bfs/test/bookingserv/api/model/Address.class
+com/paypal/bfs/test/bookingserv/api/BookingResource.class
+com/paypal/bfs/test/bookingserv/api/model/Booking.class
+com/paypal/bfs/test/bookingserv/api/entity/Address.class
+com/paypal/bfs/test/bookingserv/api/entity/ErrorDetails.class
+com/paypal/bfs/test/bookingserv/api/entity/Booking.class
